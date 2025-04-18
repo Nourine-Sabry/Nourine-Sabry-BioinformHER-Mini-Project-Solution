@@ -16,7 +16,16 @@ formats.
 
 ---
 
-## Task 1: Download a Biological Sequence from NCBI and View/Edit It
+## Task 1: Download a Biological Sequence from NCBI and View/Edit It:
 
-### On the [NCBI website](https://www.ncbi.nlm.nih.gov/), search for 'human TNF gene'
-# Nourine-Sabry-BioinformHER-Mini-Project-Solution
+### 1A] On the [NCBI website](https://www.ncbi.nlm.nih.gov/), search for 'human TNF gene'
+
+![](Screenshots/image.png)
+
+### 1B] Select the sequence record
+
+![](Screenshots/1B.png)
+
+### 1C] Download the sequence in FASTA format
+
+
