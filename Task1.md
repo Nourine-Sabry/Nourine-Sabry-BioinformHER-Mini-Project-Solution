@@ -1,6 +1,8 @@
 
 # Task 1: Download a Biological Sequence from NCBI and View/Edit It:
 
+## **Objective:** Download the human TNF gene sequence and view it using BioEdit.
+
 ### 1A] On the [NCBI website](https://www.ncbi.nlm.nih.gov/), search for 'human TNF gene'
 
 ![](Screenshots/image.png)
