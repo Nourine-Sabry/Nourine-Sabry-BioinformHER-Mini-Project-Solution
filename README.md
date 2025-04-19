@@ -19,3 +19,5 @@ formats.
 ## Solutions by task:
 
 ### 1. [Task 1](Task1.md)
+
+### 2. [Task 2](Task2.md)
