@@ -39,4 +39,4 @@
 
 ---
 
-### Proceed to task 2
+### Proceed to [task 2](Task2.md)
