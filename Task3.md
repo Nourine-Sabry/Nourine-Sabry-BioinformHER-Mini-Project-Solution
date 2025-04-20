@@ -7,7 +7,7 @@
 
 > Highlight the sequence's name, select 'Sequence' -> 'Nucleic acid' -> 'Sorted six-frame translation'
 
-> Set minimum ORF size to 50 (to filter out noise). Then set start codon to 'ATG'
+> Set minimum ORF size to 50 (to filter out noise). Then set start codon to 'ATG'. Then click 'Translate'
 
 ![](Screenshots/3A.png)
 
