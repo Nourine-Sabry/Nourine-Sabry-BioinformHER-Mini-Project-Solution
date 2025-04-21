@@ -35,9 +35,3 @@ formats.
 ### 8. [Task 8](Task8.md)
 
 ---
-
-### Tools used:
-
-- [NCBI](https://www.ncbi.nlm.nih.gov/)
-- [BioEdit](https://bioedit.software.informer.com/)
-- 
