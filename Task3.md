@@ -35,9 +35,13 @@
 ### Interpretation:
 
 > The longer ORFs are more likely to be protein-coding regions (e.g. ORFs no. 9 and 10).
+
 > The shorter ones (e.g. ORF no. 12) are more likely to be noise.
+
 > The identified ORFs are present on both strands.
+
 > The forward strand (frames 1, 2, and +3) yielded nine ORFs, whereas the reverse strand (–1, –2, and –3) yielded only three mid‑sized ORFs, indicating more coding potential in the annotated sense direction.
+
 > We seem to be dealing with a gene-dense locus with a number of compelling ORFs. Further analyses needed.
 
 ---
