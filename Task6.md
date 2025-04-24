@@ -28,7 +28,7 @@
 
 > Motif 1 appears at 5 distinct positions, which may indicate a multi-site regulatory element in the TNF promoter.
 
-> The location of motif 1 is around ~400bp upstream of the promoter, consistent with typical promoter elements
+> The location of motif 1 is around ~400bp upstream of the promoter, consistent with typical promoter elements.
 
 > These results also confirm the GC bias identified in previous tasks.
 
