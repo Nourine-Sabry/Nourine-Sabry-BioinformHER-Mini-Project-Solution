@@ -1,0 +1,64 @@
+# This output was generated with AUGUSTUS (version 3.3.3).
+# AUGUSTUS is a gene prediction tool written by M. Stanke (mario.stanke@uni-greifswald.de),
+# O. Keller, S. König, L. Gerischer, L. Romoth and Katharina Hoff.
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# No extrinsic information on sequences given.
+# Initializing the parameters using config directory /data/www/augustus/augustus/config/ ...
+# human version. Using default transition matrix.
+# Looks like /data/www/augustus/webservice/data/AUG-1172034555/input.fa is in fasta format.
+# We have hints for 0 sequences and for 0 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 2772, name = NC_000006.12:31575565-31578336) -----
+#
+# Predicted genes for sequence number 1 on both strands
+# start gene g1
+NC_000006.12:31575565-31578336	AUGUSTUS	gene	1	1973	0.88	+	.	g1
+NC_000006.12:31575565-31578336	AUGUSTUS	transcript	193	1973	0.69	+	.	g1.t1
+NC_000006.12:31575565-31578336	AUGUSTUS	start_codon	193	195	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	initial	193	363	0.71	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	internal	970	1015	0.97	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	internal	1203	1250	1	+	2	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	terminal	1552	1973	1	+	2	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	CDS	193	363	0.71	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	CDS	970	1015	0.97	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	CDS	1203	1250	1	+	2	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	CDS	1552	1973	1	+	2	transcript_id "g1.t1"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	stop_codon	1971	1973	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+# coding sequence = [atgatccgggacgtggagctggccgaggaggcgctccccaagaagacaggggggccccagggctccaggcggtgcttgt
+# tcctcagcctcttctccttcctgatcgtggcaggcgccaccacgctcttctgcctgctgcactttggagtgatcggcccccagagggaagagttcccc
+# agggacctctctctaatcagccctctggcccaggcagtcagatcatcttctcgaaccccgagtgacaagcctgtagcccatgttgtagcaaaccctca
+# agctgaggggcagctccagtggctgaaccgccgggccaatgccctcctggccaatggcgtggagctgagagataaccagctggtggtgccatcagagg
+# gcctgtacctcatctactcccaggtcctcttcaagggccaaggctgcccctccacccatgtgctcctcacccacaccatcagccgcatcgccgtctcc
+# taccagaccaaggtcaacctcctctctgccatcaagagcccctgccagagggagaccccagagggggctgaggccaagccctggtatgagcccatcta
+# tctgggaggggtcttccagctggagaagggtgaccgactcagcgctgagatcaatcggcccgactatctcgactttgccgagtctgggcaggtctact
+# ttgggatcattgccctgtga]
+# protein sequence = [MIRDVELAEEALPKKTGGPQGSRRCLFLSLFSFLIVAGATTLFCLLHFGVIGPQREEFPRDLSLISPLAQAVRSSSRT
+# PSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRET
+# PEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL]
+NC_000006.12:31575565-31578336	AUGUSTUS	transcript	1	1973	0.19	+	.	g1.t2
+NC_000006.12:31575565-31578336	AUGUSTUS	internal	172	363	0.2	+	0	transcript_id "g1.t2"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	internal	970	1015	0.97	+	0	transcript_id "g1.t2"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	internal	1203	1250	1	+	2	transcript_id "g1.t2"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	terminal	1552	1973	1	+	2	transcript_id "g1.t2"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	CDS	172	363	0.2	+	0	transcript_id "g1.t2"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	CDS	970	1015	0.97	+	0	transcript_id "g1.t2"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	CDS	1203	1250	1	+	2	transcript_id "g1.t2"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	CDS	1552	1973	1	+	2	transcript_id "g1.t2"; gene_id "g1";
+NC_000006.12:31575565-31578336	AUGUSTUS	stop_codon	1971	1973	.	+	0	transcript_id "g1.t2"; gene_id "g1";
+# coding sequence = [gacaccatgagcactgaaagcatgatccgggacgtggagctggccgaggaggcgctccccaagaagacaggggggcccc
+# agggctccaggcggtgcttgttcctcagcctcttctccttcctgatcgtggcaggcgccaccacgctcttctgcctgctgcactttggagtgatcggc
+# ccccagagggaagagttccccagggacctctctctaatcagccctctggcccaggcagtcagatcatcttctcgaaccccgagtgacaagcctgtagc
+# ccatgttgtagcaaaccctcaagctgaggggcagctccagtggctgaaccgccgggccaatgccctcctggccaatggcgtggagctgagagataacc
+# agctggtggtgccatcagagggcctgtacctcatctactcccaggtcctcttcaagggccaaggctgcccctccacccatgtgctcctcacccacacc
+# atcagccgcatcgccgtctcctaccagaccaaggtcaacctcctctctgccatcaagagcccctgccagagggagaccccagagggggctgaggccaa
+# gccctggtatgagcccatctatctgggaggggtcttccagctggagaagggtgaccgactcagcgctgagatcaatcggcccgactatctcgactttg
+# ccgagtctgggcaggtctactttgggatcattgccctgtga]
+# protein sequence = [DTMSTESMIRDVELAEEALPKKTGGPQGSRRCLFLSLFSFLIVAGATTLFCLLHFGVIGPQREEFPRDLSLISPLAQA
+# VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIK
+# SPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL]
+# end gene g1
+###
+# command line:
+# /data/www/augustus/augustus/bin/augustus --species=human --strand=both --singlestrand=false --genemodel=partial --codingseq=on --sample=100 --keep_viterbi=true --alternatives-from-sampling=true --minexonintronprob=0.2 --minmeanexonintronprob=0.5 --maxtracks=2 /data/www/augustus/webservice/data/AUG-1172034555/input.fa --exonnames=on
