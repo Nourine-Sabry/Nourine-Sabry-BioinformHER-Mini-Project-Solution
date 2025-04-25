@@ -35,3 +35,13 @@ formats.
 ### 8. [Task 8](Task8.md)
 
 ---
+
+## Tools used:
+
+- ### [NCBI](https://www.ncbi.nlm.nih.gov/)
+- ### [BioEdit](https://bioedit.software.informer.com/)
+- ### [TFBIND](https://tfbind.hgc.jp/)
+- ### [MEME](https://meme-suite.org/meme/)
+- ### [Augustus](https://bioinf.uni-greifswald.de/augustus/)
+
+---
